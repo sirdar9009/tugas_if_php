@@ -2,9 +2,9 @@
 $nilai=50;
 
 if ($nilai%2 ==0){
-  echo"Nilai adalah anggka Genap";
+  echo $nilai." adalah angka genap";
 }else{
-  echo "Nilai adalah angka ganjil";
+  echo $nilai." adalah angka ganjil";
 }
 
 ?>
